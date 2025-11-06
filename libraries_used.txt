@@ -1,0 +1,5 @@
+pyautogui: for automating mouse and keyboard interactions
+pyperclip: for clipboard operations.
+google-genai: for interacting with genai's 2.5 model
+python-dotenv
+time
